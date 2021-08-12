@@ -1,0 +1,27 @@
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 35px;
+}
+.satu{
+  column-span: all;
+  column-count: 4;
+  column-fill: balance;
+  text-align:justify;
+  column-rule: 2px solid black;
+}
+.dua{
+  column-span: all;
+  column-count: 4;
+  column-fill: balance;
+  text-align:justify;
+  column-rule: 2px solid black;
+}
+.tiga{
+  column-span: all;
+  column-count: 4;
+  column-fill: balance;
+  text-align:justify;
+  column-rule: 2px solid black;
+}
